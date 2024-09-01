@@ -2,8 +2,8 @@
 
 1. Setup the conda environment 
     ```
-    conda create --name kypt_trans python==3.8.11
-    conda activate kypt_trans
+    conda create --name 6dInHandVid python==3.8.11
+    conda activate 6dInHandVid
     conda install pytorch==1.10.1 torchvision==0.11.2 torchaudio==0.10.1 cudatoolkit=11.3 -c pytorch -c conda-forge
     pip install -r requirements.txt
     ```
